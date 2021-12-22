@@ -36,10 +36,10 @@
   "started": "Aufgetreten am",
   "scheduledFor": "Geplant für",
   "updated": "Aktualisiert am",
-  "resolvedAfter": "Gelöst innerhalb von",
+  "resolvedAfter": "Behoben innerhalb von",
   "inUnderAMinute": "weniger als einer Minute",
   "ofDowntime": "Ausfallzeit",
-  "notResolved": "Ungelöst",
+  "notResolved": "Nicht behoben",
   "affected": "Betroffen",
   "affects": "Auswirkungen",
 
@@ -116,9 +116,9 @@
   "invalidEmailError": "Geben Sie bitte eine gültige E-Mail-Adresse ein.",
   "enterPhoneError": "Geben Sie bitte Ihre Telefonnummer ein.",
 
-  "resolved": "Gelöst",
+  "resolved": "Behoben",
   "investigating": "Analyse",
-  "identified": "Behebung",
+  "identified": "Identifiziert",
   "monitoring": "Überwachung",
 
   "notstartedyet": "Geplant",
